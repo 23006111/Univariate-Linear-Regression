@@ -44,7 +44,7 @@ plt.show()
 
 ```
 ## Output:
-![Alt text](<Screenshot 2023-12-25 094609.png>)
+![Alt text](<Screenshot 2023-12-24 221519.png>)
 
 
 
